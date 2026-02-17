@@ -1,0 +1,16 @@
+Date,Libellé,Débit,Crédit,Référence
+2026-01-02,Virement client ABC,,1500.000,REF001
+2026-01-03,Paiement fournisseur XYZ,500.990,,REF002
+2026-01-05,Frais bancaires,25.500,,REF003
+2026-01-10,Encaissement chéque DEF,,2300.000,REF004
+2026-01-12,Paiement salaire janvier,1800.000,,REF005
+2026-01-12,Virement client CLT,,2500.000,REF006
+2026-01-13,Paiement fournisseur SBS,5500.370,,REF007
+2026-01-15,Frais bancaires,25.500,,REF008
+2026-01-11,ENCAISSEMENT EFFET N°440 (Echéance 10/02),,4300.000,REF009
+2026-01-11,FRAIS SUR ENCAISSEMENT EFFET,4000,,REF0091
+2026-01-22,Paiement prime janvier,800.000,,REF010
+2026-02-11,ESCOMPTE EFFET N°445 (Echéance 30/04),,965.500,REF011
+2026-02-11,Charges d'intérêts (Escompte),27.955,,REF012
+2026-02-11,Services bancaires (Commissions),5.500,,REF013
+2026-02-11,TVA SUR COMMISSIONS (19%),1.045,,REF015
